@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Syazwina's Blog
 ---
-hi just adding stuff
+Hello everyone :)
 
